@@ -1,0 +1,6860 @@
+[
+  {
+    "Type": "Bhop",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-1152,-128,64",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0.8,
+      "Value": 0.35,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Bhop",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-1248,-256,96",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0.8,
+      "Value": 0.35,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Bhop",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-1376,-352,128",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0.8,
+      "Value": 0.35,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Bhop",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-1504,-320,160",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0.8,
+      "Value": 0.35,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Bhop",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-1632,-256,192",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0.8,
+      "Value": 0.35,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Bhop",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-1696,-96,224",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0.8,
+      "Value": 0.35,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Bhop",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-1664,64,256",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0.8,
+      "Value": 0.35,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Bhop",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-1568,160,288",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0.8,
+      "Value": 0.35,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Bhop",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-1408,192,320",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0.8,
+      "Value": 0.35,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Bhop",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-1088,-64,384",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0.8,
+      "Value": 0.35,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Bhop",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-768,-64,384",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0.8,
+      "Value": 0.35,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Platform",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-576,-64,416",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Death",
+    "Size": "Huge",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-448,-64,416",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Death",
+    "Size": "Huge",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-448,-256,416",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Death",
+    "Size": "Huge",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-448,-448,416",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Death",
+    "Size": "Huge",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-256,-448,416",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Death",
+    "Size": "Huge",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-256,-256,416",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Death",
+    "Size": "Huge",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-256,-64,416",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Bhop",
+    "Size": "Small",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-448,-96,448",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0.8,
+      "Value": 0.35,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Bhop",
+    "Size": "Small",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-256,-288,448",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0.8,
+      "Value": 0.35,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Bhop",
+    "Size": "Small",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-256,-96,448",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0.8,
+      "Value": 0.35,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Glass",
+    "Size": "Huge",
+    "Color": "None",
+    "Transparency": 0.75,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-160,-64,512",
+    "Rotation": "90,0,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Glass",
+    "Size": "Huge",
+    "Color": "None",
+    "Transparency": 0.75,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-352,-256,512",
+    "Rotation": "90,0,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Glass",
+    "Size": "Huge",
+    "Color": "None",
+    "Transparency": 0.75,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-160,-288,512",
+    "Rotation": "90,0,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Glass",
+    "Size": "Huge",
+    "Color": "None",
+    "Transparency": 0.75,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-160,-512,512",
+    "Rotation": "90,0,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Bhop",
+    "Size": "Small",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-256,-480,448",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0.8,
+      "Value": 0.35,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Glass",
+    "Size": "Huge",
+    "Color": "None",
+    "Transparency": 0.75,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-256,32,512",
+    "Rotation": "-0,0,90.0000076",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Glass",
+    "Size": "Huge",
+    "Color": "None",
+    "Transparency": 0.75,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-480,32,512",
+    "Rotation": "-0,0,90.0000076",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Glass",
+    "Size": "Huge",
+    "Color": "None",
+    "Transparency": 0.75,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-608,128,512",
+    "Rotation": "90,0,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Bhop",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-160,-640,448",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0.8,
+      "Value": 0.35,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Heal",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-480,-480,448",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 2,
+      "Value": 1,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Glass",
+    "Size": "Huge",
+    "Color": "None",
+    "Transparency": 0.75,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-32,32,512",
+    "Rotation": "0,0,-90.0000229",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Glass",
+    "Size": "Huge",
+    "Color": "None",
+    "Transparency": 0.75,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "128,32,512",
+    "Rotation": "0,0,-90.0000229",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Glass",
+    "Size": "Huge",
+    "Color": "None",
+    "Transparency": 0.75,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "352,32,512",
+    "Rotation": "0,0,-90.0000229",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Glass",
+    "Size": "Huge",
+    "Color": "None",
+    "Transparency": 0.75,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "576,32,512",
+    "Rotation": "0,0,-90.0000229",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "SpeedBoost",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "320,-448,416",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 60,
+      "Value": 20,
+      "Duration": 650,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Money",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "320,-352,416",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 25,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "NoFallDmg",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "0,-704,160",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Trampoline",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "1216,160,32",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 500,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Trampoline",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "1312,192,160",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 500,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Trampoline",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "1184,128,224",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 500,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Bhop",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "1568,-448,384",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0.8,
+      "Value": 0.35,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Bhop",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "1696,-608,384",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0.8,
+      "Value": 0.35,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Bhop",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "1824,-800,384",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0.8,
+      "Value": 0.35,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Bhop",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "1952,-992,384",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0.8,
+      "Value": 0.35,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Bhop",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "1952,-1216,384",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0.8,
+      "Value": 0.35,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Bhop",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "1952,-1440,384",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0.8,
+      "Value": 0.35,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Bhop",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "2176,-1600,352",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0.8,
+      "Value": 0.35,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Trampoline",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "2240,-1984,160",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 500,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Trampoline",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "2144,-2080,224",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 500,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Platform",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "2192,-2176,352",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Bhop",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "2208,-2336,448",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0.8,
+      "Value": 0.35,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Bhop",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "2016,-2336,448",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0.8,
+      "Value": 0.35,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Bhop",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "1824,-2336,480",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0.8,
+      "Value": 0.35,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Bhop",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "1728,-2592,480",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0.8,
+      "Value": 0.35,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Bhop",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "1568,-2592,512",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0.8,
+      "Value": 0.35,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Bhop",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "1408,-2592,544",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0.8,
+      "Value": 0.35,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Bhop",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "1248,-2592,576",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0.8,
+      "Value": 0.35,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Bhop",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "1088,-2592,608",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0.8,
+      "Value": 0.35,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Bhop",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "960,-2592,640",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0.8,
+      "Value": 0.35,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Glass",
+    "Size": "Huge",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "896,-2720,800",
+    "Rotation": "-90,0,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Glass",
+    "Size": "Huge",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "768,-2624,800",
+    "Rotation": "-90,90,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Glass",
+    "Size": "Huge",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "1408,-2720,800",
+    "Rotation": "-90,0,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Glass",
+    "Size": "Huge",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "1600,-2720,800",
+    "Rotation": "-90,0,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Glass",
+    "Size": "Huge",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "1792,-2720,800",
+    "Rotation": "-90,0,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Death",
+    "Size": "Huge",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "1504,-2720,704",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Death",
+    "Size": "Huge",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "1696,-2720,704",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Platform",
+    "Size": "Small",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "832,-2576,688",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Bhop",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "1504,-2656,736",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0.8,
+      "Value": 0.35,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Bhop",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "1696,-2656,736",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0.8,
+      "Value": 0.35,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Glass",
+    "Size": "Huge",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "2080,-2720,800",
+    "Rotation": "-90,0,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Glass",
+    "Size": "Huge",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "2080,-2496,800",
+    "Rotation": "-90,0,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Weapon",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "2016,-2784,704",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 2,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Heal",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "1920,-2784,704",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 2,
+      "Value": 1,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Money",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "1824,-2784,704",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 25,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Death",
+    "Size": "Huge",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-384,384,192",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Death",
+    "Size": "Huge",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-384,160,192",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Death",
+    "Size": "Huge",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-384,-64,192",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Death",
+    "Size": "Huge",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-384,-288,192",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Death",
+    "Size": "Huge",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-160,-288,192",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Death",
+    "Size": "Huge",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-160,-64,192",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Death",
+    "Size": "Huge",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-160,160,192",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Death",
+    "Size": "Huge",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-160,384,192",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Death",
+    "Size": "Huge",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "64,384,192",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Death",
+    "Size": "Huge",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "64,160,192",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Death",
+    "Size": "Huge",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "64,-64,192",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Death",
+    "Size": "Huge",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "64,-288,192",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Platform",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-0,544,192",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Glass",
+    "Size": "Huge",
+    "Color": "None",
+    "Transparency": 0.75,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-176,496,320",
+    "Rotation": "90,-89.9999695,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Glass",
+    "Size": "Huge",
+    "Color": "None",
+    "Transparency": 0.75,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-384,496,320",
+    "Rotation": "90,-89.9999695,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Glass",
+    "Size": "Huge",
+    "Color": "None",
+    "Transparency": 0.75,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "320,480,288",
+    "Rotation": "90,-89.9999695,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Glass",
+    "Size": "Huge",
+    "Color": "None",
+    "Transparency": 0.75,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "192,384,288",
+    "Rotation": "90,2.41483685E-05,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Glass",
+    "Size": "Huge",
+    "Color": "None",
+    "Transparency": 0.75,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "192,160,288",
+    "Rotation": "90,2.41483685E-05,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Glass",
+    "Size": "Huge",
+    "Color": "None",
+    "Transparency": 0.75,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "192,-64,288",
+    "Rotation": "90,2.41483685E-05,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Glass",
+    "Size": "Huge",
+    "Color": "None",
+    "Transparency": 0.75,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "192,-288,288",
+    "Rotation": "90,2.41483685E-05,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Glass",
+    "Size": "Huge",
+    "Color": "None",
+    "Transparency": 0.75,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-512,368,304",
+    "Rotation": "90,2.41483685E-05,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Glass",
+    "Size": "Huge",
+    "Color": "None",
+    "Transparency": 0.75,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-512,160,304",
+    "Rotation": "90,2.41483685E-05,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Glass",
+    "Size": "Huge",
+    "Color": "None",
+    "Transparency": 0.75,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-496,-48,256",
+    "Rotation": "90,2.41483685E-05,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Glass",
+    "Size": "Huge",
+    "Color": "None",
+    "Transparency": 0.75,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-496,-272,256",
+    "Rotation": "90,2.41483685E-05,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Glass",
+    "Size": "Huge",
+    "Color": "None",
+    "Transparency": 0.75,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-384,-400,272",
+    "Rotation": "90,-89.9999695,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Glass",
+    "Size": "Huge",
+    "Color": "None",
+    "Transparency": 0.75,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-176,-400,288",
+    "Rotation": "90,-89.9999695,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Glass",
+    "Size": "Huge",
+    "Color": "None",
+    "Transparency": 0.75,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-64,-480,288",
+    "Rotation": "90,2.41483685E-05,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Glass",
+    "Size": "Huge",
+    "Color": "None",
+    "Transparency": 0.75,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "32,-512,288",
+    "Rotation": "90,-89.9999695,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Glass",
+    "Size": "Huge",
+    "Color": "None",
+    "Transparency": 0.75,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "256,-512,288",
+    "Rotation": "90,-89.9999695,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Glass",
+    "Size": "Huge",
+    "Color": "None",
+    "Transparency": 0.75,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "480,-192,288",
+    "Rotation": "90,2.41483685E-05,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Glass",
+    "Size": "Huge",
+    "Color": "None",
+    "Transparency": 0.75,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "480,32,288",
+    "Rotation": "90,2.41483685E-05,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Glass",
+    "Size": "Huge",
+    "Color": "None",
+    "Transparency": 0.75,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "480,256,288",
+    "Rotation": "90,2.41483685E-05,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Glass",
+    "Size": "Large",
+    "Color": "None",
+    "Transparency": 0.75,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "480,416,224",
+    "Rotation": "90,0,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Glass",
+    "Size": "Large",
+    "Color": "None",
+    "Transparency": 0.75,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "448,480,224",
+    "Rotation": "90,-90,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Trampoline",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "432,432,192",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 500,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Glass",
+    "Size": "Huge",
+    "Color": "None",
+    "Transparency": 0.75,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "64,288,288",
+    "Rotation": "90,-89.9999695,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Glass",
+    "Size": "Huge",
+    "Color": "None",
+    "Transparency": 0.75,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-160,288,288",
+    "Rotation": "90,-89.9999695,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Glass",
+    "Size": "Huge",
+    "Color": "None",
+    "Transparency": 0.75,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-384,64,288",
+    "Rotation": "90,-89.9999695,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Glass",
+    "Size": "Huge",
+    "Color": "None",
+    "Transparency": 0.75,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-160,64,288",
+    "Rotation": "90,-89.9999695,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Glass",
+    "Size": "Huge",
+    "Color": "None",
+    "Transparency": 0.75,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "64,-192,256",
+    "Rotation": "90,-89.9999695,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Glass",
+    "Size": "Huge",
+    "Color": "None",
+    "Transparency": 0.75,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-160,-192,256",
+    "Rotation": "90,-89.9999695,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Bhop",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-160,384,224",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0.8,
+      "Value": 0.35,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Bhop",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "32,384,224",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0.8,
+      "Value": 0.35,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Bhop",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-384,384,224",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0.8,
+      "Value": 0.35,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Bhop",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-384,160,224",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0.8,
+      "Value": 0.35,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Bhop",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-192,160,224",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0.8,
+      "Value": 0.35,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Bhop",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "32,160,224",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0.8,
+      "Value": 0.35,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Bhop",
+    "Size": "Small",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "128,0,224",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0.8,
+      "Value": 0.35,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Bhop",
+    "Size": "Small",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-32,-128,224",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0.8,
+      "Value": 0.35,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Bhop",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-352,-64,224",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0.8,
+      "Value": 0.35,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Bhop",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-384,-288,224",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0.8,
+      "Value": 0.35,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Bhop",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-160,-288,224",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0.8,
+      "Value": 0.35,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Bhop",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "32,-288,224",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0.8,
+      "Value": 0.35,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Phoenix",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "256,416,192",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 60,
+      "Value": 15,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Money",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "256,320,192",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 10,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Bhop",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-864,2048,224",
+    "Rotation": "0,0,-90.0000076",
+    "Properties": {
+      "Cooldown": 0.8,
+      "Value": 0.35,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Bhop",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-1024,2048,256",
+    "Rotation": "0,0,-90.0000076",
+    "Properties": {
+      "Cooldown": 0.8,
+      "Value": 0.35,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Bhop",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-1184,2048,288",
+    "Rotation": "0,0,-90.0000076",
+    "Properties": {
+      "Cooldown": 0.8,
+      "Value": 0.35,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Bhop",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-1280,2208,352",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0.8,
+      "Value": 0.35,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Glass",
+    "Size": "Huge",
+    "Color": "None",
+    "Transparency": 0.75,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-1408,2240,448",
+    "Rotation": "90,-179.999969,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Glass",
+    "Size": "Huge",
+    "Color": "None",
+    "Transparency": 0.75,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-1408,2464,448",
+    "Rotation": "90,-179.999969,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Glass",
+    "Size": "Huge",
+    "Color": "None",
+    "Transparency": 0.75,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-1408,2688,448",
+    "Rotation": "90,-179.999969,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Platform",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-1568,2176,352",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Bhop",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-1664,2624,416",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0.8,
+      "Value": 0.35,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Bhop",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-1760,2624,448",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0.8,
+      "Value": 0.35,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Bhop",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-1920,2624,480",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0.8,
+      "Value": 0.35,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "NoFallDmg",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-2496,2560,192",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Trampoline",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-2592,2560,192",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 500,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Trampoline",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-2592,2432,288",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 500,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Trampoline",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-2592,2304,352",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 500,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Trampoline",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-2592,2144,416",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 500,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Trampoline",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-2592,1984,512",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 500,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Trampoline",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-2592,1792,608",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 500,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Glass",
+    "Size": "Huge",
+    "Color": "None",
+    "Transparency": 0.75,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-2720,1504,800",
+    "Rotation": "90,-89.9999771,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Glass",
+    "Size": "Huge",
+    "Color": "None",
+    "Transparency": 0.75,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-2496,1504,800",
+    "Rotation": "90,-89.9999771,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Glass",
+    "Size": "Huge",
+    "Color": "None",
+    "Transparency": 0.75,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-2720,2112,800",
+    "Rotation": "90,-89.9999771,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Glass",
+    "Size": "Huge",
+    "Color": "None",
+    "Transparency": 0.75,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-2496,2112,800",
+    "Rotation": "90,-89.9999771,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Bhop",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-2368,1792,736",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0.8,
+      "Value": 0.35,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Bhop",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-2088,1888,736",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0.8,
+      "Value": 0.35,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Bhop",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-1880,1784,744",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0.8,
+      "Value": 0.35,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Bhop",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-1624,1816,744",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0.8,
+      "Value": 0.35,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Bhop",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-1384,1696,736",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0.8,
+      "Value": 0.35,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Bhop",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-1072,1560,736",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0.8,
+      "Value": 0.35,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Bhop",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-816,1520,728",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0.8,
+      "Value": 0.35,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Bhop",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-568,1696,728",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0.8,
+      "Value": 0.35,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Bhop",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-440,1952,728",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0.8,
+      "Value": 0.35,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Bhop",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-480,2232,728",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0.8,
+      "Value": 0.35,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Bhop",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-704,2208,704",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0.8,
+      "Value": 0.35,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Bhop",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-960,2240,672",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0.8,
+      "Value": 0.35,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Bhop",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-1216,2240,640",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0.8,
+      "Value": 0.35,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Bhop",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-1152,1568,672",
+    "Rotation": "90,0,0",
+    "Properties": {
+      "Cooldown": 0.8,
+      "Value": 0.35,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Money",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-1504,2240,608",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 25,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Heal",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-1504,2336,608",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 2,
+      "Value": 1,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Weapon",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-1504,2432,608",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 4,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Death",
+    "Size": "Huge",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-1952,-1088,32",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Death",
+    "Size": "Huge",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-2176,-1088,32",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Death",
+    "Size": "Huge",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-2400,-1088,32",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Death",
+    "Size": "Huge",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-2400,-1312,32",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Death",
+    "Size": "Huge",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-2400,-1536,32",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Death",
+    "Size": "Huge",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-2400,-1760,32",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Death",
+    "Size": "Huge",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-2400,-1984,32",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Death",
+    "Size": "Huge",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-2400,-2208,32",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Death",
+    "Size": "Huge",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-2400,-2432,32",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Death",
+    "Size": "Huge",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-2176,-2432,32",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Death",
+    "Size": "Huge",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-2176,-2208,32",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Death",
+    "Size": "Huge",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-2176,-1984,32",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Death",
+    "Size": "Huge",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-2176,-1760,32",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Death",
+    "Size": "Huge",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-2176,-1536,32",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Death",
+    "Size": "Huge",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-2176,-1312,32",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Death",
+    "Size": "Huge",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-1952,-1312,32",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Death",
+    "Size": "Huge",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-1952,-1536,32",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Death",
+    "Size": "Huge",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-1952,-1760,32",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Death",
+    "Size": "Huge",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-1952,-1984,32",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Death",
+    "Size": "Huge",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-1952,-2208,32",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Death",
+    "Size": "Huge",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-1952,-2432,32",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Glass",
+    "Size": "Huge",
+    "Color": "None",
+    "Transparency": 0.75,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-1856,-2432,128",
+    "Rotation": "90,2.41483685E-05,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Glass",
+    "Size": "Huge",
+    "Color": "None",
+    "Transparency": 0.75,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-1856,-2656,128",
+    "Rotation": "90,2.41483685E-05,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Glass",
+    "Size": "Huge",
+    "Color": "None",
+    "Transparency": 0.75,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-2496,-2432,128",
+    "Rotation": "90,2.41483685E-05,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Glass",
+    "Size": "Huge",
+    "Color": "None",
+    "Transparency": 0.75,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-2496,-2656,128",
+    "Rotation": "90,2.41483685E-05,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Glass",
+    "Size": "Huge",
+    "Color": "None",
+    "Transparency": 0.75,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-2496,-2208,128",
+    "Rotation": "90,2.41483685E-05,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Glass",
+    "Size": "Huge",
+    "Color": "None",
+    "Transparency": 0.75,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-2496,-1984,128",
+    "Rotation": "90,2.41483685E-05,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Glass",
+    "Size": "Huge",
+    "Color": "None",
+    "Transparency": 0.75,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-2496,-1760,128",
+    "Rotation": "90,2.41483685E-05,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Glass",
+    "Size": "Huge",
+    "Color": "None",
+    "Transparency": 0.75,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-2496,-1536,128",
+    "Rotation": "90,2.41483685E-05,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Glass",
+    "Size": "Huge",
+    "Color": "None",
+    "Transparency": 0.75,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-2496,-1312,128",
+    "Rotation": "90,2.41483685E-05,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Glass",
+    "Size": "Huge",
+    "Color": "None",
+    "Transparency": 0.75,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-1856,-2208,128",
+    "Rotation": "90,2.41483685E-05,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Platform",
+    "Size": "Small",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-2368,-2592,32",
+    "Rotation": "-44.9999847,3.15513853E-06,-3.15513853E-06",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Platform",
+    "Size": "Small",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-2336,-2592,64",
+    "Rotation": "-44.9999847,3.15513853E-06,-3.15513853E-06",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Platform",
+    "Size": "Small",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-2304,-2592,96",
+    "Rotation": "-44.9999847,3.15513853E-06,-3.15513853E-06",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Platform",
+    "Size": "Small",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-2272,-2592,128",
+    "Rotation": "-44.9999847,3.15513853E-06,-3.15513853E-06",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Platform",
+    "Size": "Small",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-2240,-2592,160",
+    "Rotation": "-44.9999847,3.15513853E-06,-3.15513853E-06",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Platform",
+    "Size": "Small",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-2208,-2592,192",
+    "Rotation": "-44.9999847,3.15513853E-06,-3.15513853E-06",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Platform",
+    "Size": "Small",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-2176,-2592,224",
+    "Rotation": "-44.9999847,3.15513853E-06,-3.15513853E-06",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Platform",
+    "Size": "Small",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-2144,-2592,256",
+    "Rotation": "-44.9999847,3.15513853E-06,-3.15513853E-06",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Bhop",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-2560,-2464,352",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0.8,
+      "Value": 0.35,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Bhop",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-2560,-2304,384",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0.8,
+      "Value": 0.35,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Bhop",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-2560,-2144,416",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0.8,
+      "Value": 0.35,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Bhop",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-2240,-2080,512",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0.8,
+      "Value": 0.35,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Glass",
+    "Size": "Huge",
+    "Color": "None",
+    "Transparency": 0.75,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-2592,-2368,384",
+    "Rotation": "90,-89.9999695,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Glass",
+    "Size": "Huge",
+    "Color": "None",
+    "Transparency": 0.75,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-2624,-2208,384",
+    "Rotation": "90,-89.9999695,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Bhop",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-2240,-1760,512",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0.8,
+      "Value": 0.35,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Bhop",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-2240,-1536,512",
+    "Rotation": "90,0,0",
+    "Properties": {
+      "Cooldown": 0.8,
+      "Value": 0.35,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Platform",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-2592,-2016,416",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Platform",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-2592,-1920,448",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Glass",
+    "Size": "Huge",
+    "Color": "None",
+    "Transparency": 0.75,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-2240,-1344,576",
+    "Rotation": "90,-89.9999695,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Bhop",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-2176,-1280,480",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0.8,
+      "Value": 0.35,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Bhop",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-2240,-1088,512",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0.8,
+      "Value": 0.35,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Bhop",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-2240,-864,512",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0.8,
+      "Value": 0.35,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Bhop",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-2464,-736,512",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0.8,
+      "Value": 0.35,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Glass",
+    "Size": "Huge",
+    "Color": "None",
+    "Transparency": 0.75,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-2656,-2080,400",
+    "Rotation": "90,-89.9999695,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Platform",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-2592,-544,512",
+    "Rotation": "-0,0,22.5000076",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Platform",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-2592,-480,544",
+    "Rotation": "-0,0,22.5000095",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Platform",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-2592,-416,576",
+    "Rotation": "-0,0,22.5000114",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Platform",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-2592,-352,608",
+    "Rotation": "-0,0,22.5000134",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Platform",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-2592,-288,640",
+    "Rotation": "-0,0,22.5000153",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Glass",
+    "Size": "Huge",
+    "Color": "None",
+    "Transparency": 0.75,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-2720,-928,800",
+    "Rotation": "90,-89.9999695,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Glass",
+    "Size": "Huge",
+    "Color": "None",
+    "Transparency": 0.75,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-2496,-928,800",
+    "Rotation": "90,-89.9999695,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Glass",
+    "Size": "Huge",
+    "Color": "None",
+    "Transparency": 0.75,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-2720,32,800",
+    "Rotation": "90,-89.9999695,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Glass",
+    "Size": "Huge",
+    "Color": "None",
+    "Transparency": 0.75,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-2496,32,800",
+    "Rotation": "90,-89.9999695,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Heal",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-2048,-2592,320",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 2,
+      "Value": 1,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Money",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-2784,-864,704",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 25,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Weapon",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-2784,-768,704",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 2,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "NoFallDmg",
+    "Size": "Huge",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-2336,-640,32",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "NoFallDmg",
+    "Size": "Huge",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-1376,1952,32",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "NoFallDmg",
+    "Size": "Huge",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-320,-2080,32",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Death",
+    "Size": "Large",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "2560,2240,32",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Death",
+    "Size": "Large",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "2560,2112,32",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Death",
+    "Size": "Large",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "2432,2112,32",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Death",
+    "Size": "Large",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "2432,2240,32",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Platform",
+    "Size": "Large",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "2400,1696,160",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Platform",
+    "Size": "Large",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "2400,1568,160",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Platform",
+    "Size": "Large",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "2400,1440,160",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Platform",
+    "Size": "Large",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "2400,1312,160",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Platform",
+    "Size": "Large",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "2400,1184,160",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Platform",
+    "Size": "Large",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "2400,1056,160",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Platform",
+    "Size": "Large",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "2400,928,160",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Platform",
+    "Size": "Large",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "2400,1632,224",
+    "Rotation": "8.53773145E-06,-4.07111058E-13,90",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Platform",
+    "Size": "Large",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "2400,1504,224",
+    "Rotation": "8.53773145E-06,-4.07111058E-13,90",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Platform",
+    "Size": "Large",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "2400,1376,224",
+    "Rotation": "8.53773145E-06,-4.07111058E-13,90",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Platform",
+    "Size": "Large",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "2400,1248,224",
+    "Rotation": "8.53773145E-06,-4.07111058E-13,90",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Platform",
+    "Size": "Large",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "2400,1120,224",
+    "Rotation": "8.53773145E-06,-4.07111058E-13,90",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Platform",
+    "Size": "Large",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "2400,992,224",
+    "Rotation": "8.53773145E-06,-4.07111058E-13,90",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Platform",
+    "Size": "Large",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "2400,800,224",
+    "Rotation": "0,0,-22.500021",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Platform",
+    "Size": "Large",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "2624,1888,224",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Platform",
+    "Size": "Large",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "2624,2112,256",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Platform",
+    "Size": "Large",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "2624,2272,288",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Platform",
+    "Size": "Large",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "2624,2432,320",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Platform",
+    "Size": "Large",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "2592,2016,288",
+    "Rotation": "8.53773145E-06,-4.07111058E-13,90",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Platform",
+    "Size": "Large",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "2592,2176,320",
+    "Rotation": "8.53773145E-06,-4.07111058E-13,90",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Platform",
+    "Size": "Large",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "2592,2336,352",
+    "Rotation": "8.53773145E-06,-4.07111058E-13,90",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Platform",
+    "Size": "Large",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "2592,2496,384",
+    "Rotation": "8.53773145E-06,-4.07111058E-13,90",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Platform",
+    "Size": "Large",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "2400,2592,320",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Platform",
+    "Size": "Large",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "2272,2592,320",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Heal",
+    "Size": "Large",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "2272,2464,320",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 2,
+      "Value": 1,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Money",
+    "Size": "Large",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "2144,2592,320",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 25,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "NoFallDmg",
+    "Size": "Large",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "2560,2560,128",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Gravity",
+    "Size": "Large",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "1248,1504,64",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 4,
+      "Value": 400,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Platform",
+    "Size": "Large",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "992,1504,192",
+    "Rotation": "22.4999905,0,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Platform",
+    "Size": "Large",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "704,1504,288",
+    "Rotation": "22.4999905,0,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Bhop",
+    "Size": "Large",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "224,1280,288",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0.8,
+      "Value": 0.35,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Bhop",
+    "Size": "Large",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "32,1120,288",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0.8,
+      "Value": 0.35,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Platform",
+    "Size": "Large",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "160,1216,352",
+    "Rotation": "90,0,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Bhop",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-96,960,288",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0.8,
+      "Value": 0.35,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Bhop",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-96,832,320",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0.8,
+      "Value": 0.35,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Bhop",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-96,704,352",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0.8,
+      "Value": 0.35,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Bhop",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-96,608,384",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0.8,
+      "Value": 0.35,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Platform",
+    "Size": "Large",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-0,1056,352",
+    "Rotation": "90,44.9999962,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Platform",
+    "Size": "Large",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-96,896,352",
+    "Rotation": "90,90.0000076,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Platform",
+    "Size": "Large",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-96,768,384",
+    "Rotation": "90,90.0000076,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Platform",
+    "Size": "Large",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-96,672,416",
+    "Rotation": "90,90.0000076,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Heal",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "192,192,416",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 2,
+      "Value": 1,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Money",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "288,192,416",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 5,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Weapon",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "416,192,416",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 4,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Glass",
+    "Size": "Huge",
+    "Color": "None",
+    "Transparency": 0.75,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "576,128,608",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Glass",
+    "Size": "Huge",
+    "Color": "None",
+    "Transparency": 0.75,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "352,128,608",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Glass",
+    "Size": "Huge",
+    "Color": "None",
+    "Transparency": 0.75,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "128,128,608",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Glass",
+    "Size": "Huge",
+    "Color": "None",
+    "Transparency": 0.75,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-32,128,608",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Glass",
+    "Size": "Huge",
+    "Color": "None",
+    "Transparency": 0.75,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-256,128,608",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Glass",
+    "Size": "Huge",
+    "Color": "None",
+    "Transparency": 0.75,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-480,128,608",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Glass",
+    "Size": "Huge",
+    "Color": "None",
+    "Transparency": 0.75,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-480,352,608",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Glass",
+    "Size": "Huge",
+    "Color": "None",
+    "Transparency": 0.75,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-256,352,608",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Glass",
+    "Size": "Huge",
+    "Color": "None",
+    "Transparency": 0.75,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-32,352,608",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Glass",
+    "Size": "Huge",
+    "Color": "None",
+    "Transparency": 0.75,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "128,352,608",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Glass",
+    "Size": "Huge",
+    "Color": "None",
+    "Transparency": 0.75,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "352,352,608",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Glass",
+    "Size": "Huge",
+    "Color": "None",
+    "Transparency": 0.75,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "576,352,608",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Glass",
+    "Size": "Huge",
+    "Color": "None",
+    "Transparency": 0.75,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "576,32,704",
+    "Rotation": "0,0,-90.0000229",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Glass",
+    "Size": "Huge",
+    "Color": "None",
+    "Transparency": 0.75,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "352,32,704",
+    "Rotation": "0,0,-90.0000229",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Glass",
+    "Size": "Huge",
+    "Color": "None",
+    "Transparency": 0.75,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "128,64,704",
+    "Rotation": "0,0,-90.0000229",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Glass",
+    "Size": "Huge",
+    "Color": "None",
+    "Transparency": 0.75,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-32,32,672",
+    "Rotation": "0,0,-90.0000229",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Glass",
+    "Size": "Huge",
+    "Color": "None",
+    "Transparency": 0.75,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-256,32,704",
+    "Rotation": "0,0,-90.0000229",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Glass",
+    "Size": "Huge",
+    "Color": "None",
+    "Transparency": 0.75,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-480,32,704",
+    "Rotation": "0,0,-90.0000229",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "NoFallDmg",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "0,640,192",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Glass",
+    "Size": "Huge",
+    "Color": "None",
+    "Transparency": 0.75,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "672,128,512",
+    "Rotation": "-3.58584948E-05,-90.0000458,-90.0000458",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Glass",
+    "Size": "Huge",
+    "Color": "None",
+    "Transparency": 0.75,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "672,352,512",
+    "Rotation": "-3.58584948E-05,-90.0000381,-90.0000381",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Glass",
+    "Size": "Huge",
+    "Color": "None",
+    "Transparency": 0.75,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "576,576,608",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Glass",
+    "Size": "Huge",
+    "Color": "None",
+    "Transparency": 0.75,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "352,576,608",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Glass",
+    "Size": "Huge",
+    "Color": "None",
+    "Transparency": 0.75,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "128,576,608",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Glass",
+    "Size": "Huge",
+    "Color": "None",
+    "Transparency": 0.75,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-32,576,608",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Glass",
+    "Size": "Huge",
+    "Color": "None",
+    "Transparency": 0.75,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-256,576,608",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Glass",
+    "Size": "Huge",
+    "Color": "None",
+    "Transparency": 0.75,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-480,576,608",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Bhop",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "1576,216,376",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0.8,
+      "Value": 0.35,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Bhop",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "1568,384,416",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0.8,
+      "Value": 0.35,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Bhop",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "1376,448,416",
+    "Rotation": "0,0,-90.0000229",
+    "Properties": {
+      "Cooldown": 0.8,
+      "Value": 0.35,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Bhop",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "1216,448,448",
+    "Rotation": "2.39056626E-05,45.0000191,-90.0000534",
+    "Properties": {
+      "Cooldown": 0.8,
+      "Value": 0.35,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Bhop",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "1088,448,480",
+    "Rotation": "3.24434004E-05,157.500031,-89.9999695",
+    "Properties": {
+      "Cooldown": 0.8,
+      "Value": 0.35,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Bhop",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "992,576,480",
+    "Rotation": "4.26886845E-06,-157.499985,-89.9999619",
+    "Properties": {
+      "Cooldown": 0.8,
+      "Value": 0.35,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Bhop",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "864,704,512",
+    "Rotation": "-3.58584948E-05,-112.499977,-89.9999771",
+    "Properties": {
+      "Cooldown": 0.8,
+      "Value": 0.35,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Glass",
+    "Size": "Huge",
+    "Color": "None",
+    "Transparency": 0.75,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "672,576,512",
+    "Rotation": "-3.58584948E-05,-90.0000458,-90.0000458",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Glass",
+    "Size": "Huge",
+    "Color": "None",
+    "Transparency": 0.75,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "576,672,512",
+    "Rotation": "3.38077007E-05,-2.89780637E-05,-90.0000687",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Bhop",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "736,480,576",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0.8,
+      "Value": 0.35,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Bhop",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "384,160,640",
+    "Rotation": "-3.41509476E-05,-112.499969,-89.9999771",
+    "Properties": {
+      "Cooldown": 0.8,
+      "Value": 0.35,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Bhop",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "480,128,640",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0.8,
+      "Value": 0.35,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Bhop",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "160,128,640",
+    "Rotation": "-3.41509476E-05,-112.499969,-89.9999771",
+    "Properties": {
+      "Cooldown": 0.8,
+      "Value": 0.35,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Bhop",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-64,128,640",
+    "Rotation": "-3.41509476E-05,-112.499969,-89.9999771",
+    "Properties": {
+      "Cooldown": 0.8,
+      "Value": 0.35,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Bhop",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-320,128,640",
+    "Rotation": "-3.41509476E-05,-112.499969,-89.9999771",
+    "Properties": {
+      "Cooldown": 0.8,
+      "Value": 0.35,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Bhop",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-512,320,640",
+    "Rotation": "-3.41509476E-05,-112.499969,-89.9999771",
+    "Properties": {
+      "Cooldown": 0.8,
+      "Value": 0.35,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Bhop",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-448,608,640",
+    "Rotation": "-3.41509476E-05,-112.499969,-89.9999771",
+    "Properties": {
+      "Cooldown": 0.8,
+      "Value": 0.35,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Bhop",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-224,672,704",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0.8,
+      "Value": 0.35,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Bhop",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-32,672,736",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0.8,
+      "Value": 0.35,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Bhop",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "160,672,768",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0.8,
+      "Value": 0.35,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Bhop",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "352,672,800",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0.8,
+      "Value": 0.35,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Bhop",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "352,512,800",
+    "Rotation": "0,0,-90.0000076",
+    "Properties": {
+      "Cooldown": 0.8,
+      "Value": 0.35,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Bhop",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "320,288,800",
+    "Rotation": "8.5377369E-06,45,-90.0000229",
+    "Properties": {
+      "Cooldown": 0.8,
+      "Value": 0.35,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Bhop",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "352,-96,832",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0.8,
+      "Value": 0.35,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Bhop",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "224,-256,864",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0.8,
+      "Value": 0.35,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Bhop",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "56,-320,864",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0.8,
+      "Value": 0.35,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Bhop",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-96,-256,896",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0.8,
+      "Value": 0.35,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Weapon",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-0,160,928",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 3,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Heal",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-96,160,928",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 2,
+      "Value": 1,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Money",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-0,64,928",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 50,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Heal",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "96,160,928",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 2,
+      "Value": 1,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "NoFallDmg",
+    "Size": "Huge",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-2208,1824,32",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "NoFallDmg",
+    "Size": "Huge",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "0,-416,416",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Bhop",
+    "Size": "Small",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-160,-2080,416",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0.8,
+      "Value": 0.35,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Bhop",
+    "Size": "Small",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-320,-2080,416",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0.8,
+      "Value": 0.35,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Bhop",
+    "Size": "Small",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-480,-2080,416",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0.8,
+      "Value": 0.35,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Bhop",
+    "Size": "Small",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-672,-2080,416",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0.8,
+      "Value": 0.35,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Bhop",
+    "Size": "Small",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-672,-2208,448",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0.8,
+      "Value": 0.35,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Bhop",
+    "Size": "Small",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-672,-2336,480",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0.8,
+      "Value": 0.35,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Bhop",
+    "Size": "Small",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-672,-2464,512",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0.8,
+      "Value": 0.35,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Platform",
+    "Size": "Small",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-672,-2592,512",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Platform",
+    "Size": "Small",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-512,-2592,512",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Platform",
+    "Size": "Small",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-352,-2592,512",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Platform",
+    "Size": "Small",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-192,-2592,512",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Bhop",
+    "Size": "Small",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-192,-2464,512",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0.8,
+      "Value": 0.35,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Bhop",
+    "Size": "Small",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-192,-2336,544",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0.8,
+      "Value": 0.35,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Bhop",
+    "Size": "Small",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-192,-2208,576",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0.8,
+      "Value": 0.35,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Bhop",
+    "Size": "Small",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-384,-2208,576",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0.8,
+      "Value": 0.35,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Bhop",
+    "Size": "Small",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-512,-2208,608",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0.8,
+      "Value": 0.35,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Bhop",
+    "Size": "Small",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-512,-2336,640",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0.8,
+      "Value": 0.35,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Bhop",
+    "Size": "Small",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-512,-2528,672",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0.8,
+      "Value": 0.35,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Glass",
+    "Size": "Huge",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-768,-2720,800",
+    "Rotation": "-90,0,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Glass",
+    "Size": "Huge",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-768,-2496,800",
+    "Rotation": "-90,0,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Glass",
+    "Size": "Huge",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "672,-2496,800",
+    "Rotation": "-90,0,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Heal",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-512,-2784,704",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 2,
+      "Value": 1,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Money",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-416,-2784,704",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 25,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Weapon",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-96,-2720,704",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 1,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Slap",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "2584,-2576,40",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 500,
+      "Value": 500,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Slap",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "1632,-1440,32",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 500,
+      "Value": 500,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Slap",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-832,-1408,32",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 500,
+      "Value": 500,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Slap",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-2560,-0,32",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 500,
+      "Value": 500,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Slap",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-168,1680,32",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 500,
+      "Value": 500,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Glass",
+    "Size": "Huge",
+    "Color": "None",
+    "Transparency": 0.75,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "480,-512,288",
+    "Rotation": "90,-90.0000153,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Glass",
+    "Size": "Huge",
+    "Color": "None",
+    "Transparency": 0.75,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "480,-400,288",
+    "Rotation": "90,2.41483685E-05,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Weapon",
+    "Size": "Large",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "2144,2464,320",
+    "Rotation": "-0,0,0",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Platform",
+    "Size": "Huge",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "2272,-2016,304",
+    "Rotation": "-1.70754618E-06,-3.56222728E-13,-90.0000076",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Platform",
+    "Size": "Huge",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "2176,-2112,304",
+    "Rotation": "1.53679266E-05,90.0000153,-90.0000153",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  }
+]
