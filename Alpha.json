@@ -4039,24 +4039,6 @@
     "Pole": false,
     "Team": "Both",
     "Position": "-2592,-544,512",
-    "Rotation": "-0,0,22.5000076",
-    "Properties": {
-      "Cooldown": 0,
-      "Value": 0,
-      "Duration": 0,
-      "OnTop": false,
-      "Locked": false,
-      "Builder": null
-    }
-  },
-  {
-    "Type": "Platform",
-    "Size": "Normal",
-    "Color": "None",
-    "Transparency": 1,
-    "Pole": false,
-    "Team": "Both",
-    "Position": "-2592,-480,544",
     "Rotation": "-0,0,22.5000095",
     "Properties": {
       "Cooldown": 0,
@@ -4074,7 +4056,7 @@
     "Transparency": 1,
     "Pole": false,
     "Team": "Both",
-    "Position": "-2592,-416,576",
+    "Position": "-2592,-480,544",
     "Rotation": "-0,0,22.5000114",
     "Properties": {
       "Cooldown": 0,
@@ -4092,7 +4074,7 @@
     "Transparency": 1,
     "Pole": false,
     "Team": "Both",
-    "Position": "-2592,-352,608",
+    "Position": "-2592,-416,576",
     "Rotation": "-0,0,22.5000134",
     "Properties": {
       "Cooldown": 0,
@@ -4110,8 +4092,26 @@
     "Transparency": 1,
     "Pole": false,
     "Team": "Both",
-    "Position": "-2592,-288,640",
+    "Position": "-2592,-352,608",
     "Rotation": "-0,0,22.5000153",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "Platform",
+    "Size": "Normal",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "-2592,-288,640",
+    "Rotation": "-0,0,22.5000172",
     "Properties": {
       "Cooldown": 0,
       "Value": 0,
@@ -5515,7 +5515,7 @@
     "Pole": false,
     "Team": "Both",
     "Position": "672,128,512",
-    "Rotation": "-3.58584948E-05,-90.0000458,-90.0000458",
+    "Rotation": "-3.58584948E-05,-90.0000381,-90.0000381",
     "Properties": {
       "Cooldown": 0,
       "Value": 0,
@@ -5533,7 +5533,7 @@
     "Pole": false,
     "Team": "Both",
     "Position": "672,352,512",
-    "Rotation": "-3.58584948E-05,-90.0000381,-90.0000381",
+    "Rotation": "-3.58584948E-05,-90.0000458,-90.0000458",
     "Properties": {
       "Cooldown": 0,
       "Value": 0,
@@ -5767,7 +5767,7 @@
     "Pole": false,
     "Team": "Both",
     "Position": "864,704,512",
-    "Rotation": "-3.58584948E-05,-112.499977,-89.9999771",
+    "Rotation": "-3.41509476E-05,-112.499969,-89.9999771",
     "Properties": {
       "Cooldown": 0.8,
       "Value": 0.35,
@@ -5785,7 +5785,7 @@
     "Pole": false,
     "Team": "Both",
     "Position": "672,576,512",
-    "Rotation": "-3.58584948E-05,-90.0000458,-90.0000458",
+    "Rotation": "-3.58584948E-05,-90.0000381,-90.0000381",
     "Properties": {
       "Cooldown": 0,
       "Value": 0,
@@ -6829,7 +6829,7 @@
     "Pole": false,
     "Team": "Both",
     "Position": "2272,-2016,304",
-    "Rotation": "-1.70754618E-06,-3.56222728E-13,-90.0000076",
+    "Rotation": "-1.70754606E-06,-3.0533326E-13,-90.0000076",
     "Properties": {
       "Cooldown": 0,
       "Value": 0,
@@ -6847,7 +6847,25 @@
     "Pole": false,
     "Team": "Both",
     "Position": "2176,-2112,304",
-    "Rotation": "1.53679266E-05,90.0000153,-90.0000153",
+    "Rotation": "8.5377369E-06,90.0000076,-90.0000076",
+    "Properties": {
+      "Cooldown": 0,
+      "Value": 0,
+      "Duration": 0,
+      "OnTop": false,
+      "Locked": false,
+      "Builder": null
+    }
+  },
+  {
+    "Type": "NoFallDmg",
+    "Size": "Huge",
+    "Color": "None",
+    "Transparency": 1,
+    "Pole": false,
+    "Team": "Both",
+    "Position": "2003.36548,-2522.85254,34.0161133",
+    "Rotation": "-0,0,0",
     "Properties": {
       "Cooldown": 0,
       "Value": 0,
